@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JurisControl.API/JurisControl.API.csproj" />
+    <Project Path="src/JurisControl.Application/JurisControl.Application.csproj" />
+    <Project Path="src/JurisControl.Domain/JurisControl.Domain.csproj" />
+    <Project Path="src/JurisControl.Infrastructure/JurisControl.Infrastructure.csproj" />
+    <Project Path="src/JurisControl.Web/JurisControl.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/JurisControl.IntegrationTests/JurisControl.IntegrationTests.csproj" />
+    <Project Path="tests/JurisControl.UnitTests/JurisControl.UnitTests.csproj" />
+  </Folder>
+</Solution>
